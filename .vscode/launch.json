@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://Clootrack",
+            "request": "launch",
+            "url": "http://Clootrack"
+        }
+    ]
+}
